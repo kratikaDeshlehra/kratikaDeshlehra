@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.kratikadeshlehra@gmail.com">📧 Email</a> •
+  <a href="mailto:kratikadeshlehra@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/kratikadeshlehra/">🔗 LinkedIn</a> •
 </p>
 
@@ -75,8 +75,8 @@ I'm a passionate software engineer who loves solving real-world problems through
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kratika-des&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratika-des&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kratikaDeshlehra&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratikaDeshlehra&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
