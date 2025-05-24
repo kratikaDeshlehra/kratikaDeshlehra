@@ -80,16 +80,10 @@ I'm a passionate software engineer who loves solving real-world problems through
 </p>
 
 ---
-## 🌿 GitHub Activity Heatmap (LeetCode Style)
-
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=kratikaDeshlehra&theme=github-light" />
+  <img src="https://komarev.com/ghpvc/?username=kratikaDeshlehra&style=for-the-badge&label=👀 Profile Views&color=FF69B4" alt="Profile Views" />
 </p>
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kratikaDeshlehra&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ## 🤝 Let's Connect
 
