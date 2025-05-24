@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Tech Stack
+
+- **Languages:** Java, Python, JavaScript, TypeScript, C++
+- **Frontend:** React.js, React Native, HTML, CSS, Tailwind CSS, Semantic UI
+- **Backend:** Node.js, Express.js, Django, Firebase
+- **Databases:** MongoDB, Firestore, MySQL, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, Postman, Expo, Figma
