@@ -68,7 +68,6 @@ I'm a passionate software engineer who loves solving real-world problems through
 - Computer Networks  
 - Database Management Systems  
 - Machine Learning  
-- React Native
 
 ---
 
@@ -81,8 +80,9 @@ I'm a passionate software engineer who loves solving real-world problems through
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kratikaDeshlehra&style=for-the-badge&label=👀 Profile Views&color=FF69B4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kratikaDeshlehra&style=for-the-badge&label=Profile%20Views&color=FF69B4" alt="Profile Views" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect
