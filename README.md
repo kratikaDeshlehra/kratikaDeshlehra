@@ -80,11 +80,16 @@ I'm a passionate software engineer who loves solving real-world problems through
 </p>
 
 ---
+## 🌱 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kratikaDeshlehra&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
 I'm always excited to collaborate on projects, learn new technologies, and contribute to open-source. Feel free to reach out!
 
----
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
